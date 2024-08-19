@@ -1,11 +1,8 @@
-# Sistemas_de_interaccion
-## Integrantes
-
+## Interaction_Systems
+Members
 * Juan Ignacio Gándara
 * Mohamad Shayeb
+## First Project Link
+In this link, you will find the .Zip file with the edited video and the audio in .mp3 format, corresponding to the correction of the first submission.
 
-
-### Enlace Primer Proyecto
-En este enlace se encuenta el archivo .Zip con el video editado y el audio en formato .mp3
-
-https://drive.google.com/file/d/1dYUFgH7OtXSmLvW4PK-b_FJeb4RE1yVt/view?usp=sharing
+https://drive.google.com/file/d/1FKbtrKwxFZAHU_dNnkxMLioYyT3pEPLe/view?usp=sharing
